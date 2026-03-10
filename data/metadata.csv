@@ -1,0 +1,8 @@
+id,url,raw_file,processed_file,retrieved_at,status
+0,https://www.sutd.edu.sg/Admissions/Undergraduate,data/raw/page_0.html,data/processed/page_0.txt,2026-02-26T12:16:38Z,success
+1,https://www.sutd.edu.sg/admissions/graduate/masters,data/raw/page_1.html,data/processed/page_1.txt,2026-02-26T12:16:40Z,success
+2,https://www.sutd.edu.sg/admissions/graduate/phd,data/raw/page_2.html,data/processed/page_2.txt,2026-02-26T12:16:41Z,success
+3,https://www.sutd.edu.sg/research/research-centres,data/raw/page_3.html,data/processed/page_3.txt,2026-02-26T12:16:42Z,success
+4,https://www.sutd.edu.sg/education/undergraduate/courses,data/raw/page_4.html,data/processed/page_4.txt,2026-02-26T12:16:44Z,success
+5,https://www.sutd.edu.sg/campus-life,data/raw/page_5.html,data/processed/page_5.txt,2026-02-26T12:16:46Z,success
+6,https://www.sutd.edu.sg/about/design-ai/,data/raw/page_6.html,data/processed/page_6.txt,2026-02-26T12:16:48Z,success
